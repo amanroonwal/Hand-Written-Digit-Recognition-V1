@@ -1,7 +1,7 @@
 Hand-Written-Digit-Recognition-V1
 =================================
 
-Predicts Hand-Written Single Digit.
+Recognizes Hand-Written Single Digit 20X20px image using Logistic Regression.
 
 
 Developer:
