@@ -6,8 +6,8 @@ Recognizes Hand-Written Single Digit 20X20px image using Logistic Regression.
 
 Developer:
 
-copyright © 2013 Dhruv Kohli,
-                 B.Tech Mathematics and Computing,
+copyright © 2013 Dhruv Kohli,\n
+                 B.Tech Mathematics and Computing,\n
                  Indian Institute Of Technology, Guwahati.
 
 Requirements:
@@ -54,7 +54,7 @@ Some Notes:
     -But you can increase the iterations to increase accuracy.
     -However on increasing it further after a saturation point, the Gradient Descent Algorithm 
      will overfit the given trainData which will decrease the Accuracy to predict correct Digit.
-    -I have included some, breakpints to give some insight of whats going behind the scene.
+    -I have included some breakpoints to give some insight of whats going behind the scene.
     -If you are interested to know more, Visit Wikipedia or Google websites that can help 
      you learn.
     
